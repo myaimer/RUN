@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8fb11a96-f99b-4743-8de0-b90dfeca58f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Healthygames": {
+      "ver": "1.0.3",
+      "uuid": "a3341285-6e0b-4d08-9df5-ba2aebe78f94",
+      "rawTextureUuid": "8fb11a96-f99b-4743-8de0-b90dfeca58f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 378,
+      "height": 149,
+      "rawWidth": 378,
+      "rawHeight": 149,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

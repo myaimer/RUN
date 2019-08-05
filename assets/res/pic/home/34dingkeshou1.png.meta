@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cbed4697-6d98-43f2-987e-d64449e2a50e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "34dingkeshou1": {
+      "ver": "1.0.3",
+      "uuid": "88048b0a-06ce-4381-8503-d8dcf700b7cb",
+      "rawTextureUuid": "cbed4697-6d98-43f2-987e-d64449e2a50e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 80,
+      "height": 80,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
